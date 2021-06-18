@@ -25,4 +25,8 @@ struct Cloth {
 
 void compute_masses(Cloth& cloth);
 
+class cloth
+{
+};
+
 #endif

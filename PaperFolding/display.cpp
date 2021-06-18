@@ -5,11 +5,11 @@
 
 //#include "bvh.hpp"
 //#include "geometry.hpp"
-//#include "io.hpp"
+#include "io.h"
 //#include "timer.hpp"
 //#include "opengl.hpp"
 //#include "timer.hpp"
-//#include "util.hpp"
+#include "util.h"
 #include <sstream>
 
 using namespace std;
